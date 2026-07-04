@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "printducky"
-version = "1.0.0"
+version = "1.0.1"
 description = "Prints a duck and... that's it :)"
 readme = "README.md"
 license = "Unlicense"
