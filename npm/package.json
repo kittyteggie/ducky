@@ -1,0 +1,27 @@
+{
+  "name": "printducky",
+  "version": "1.0.0",
+  "description": "Prints a duck and... that's it :)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kittyteggie/ducky.git"
+  },
+  "keywords": [
+    "duck",
+    "print",
+    "ducks",
+    "ducky",
+    "console",
+    "consolelog"
+  ],
+  "author": "kittyteggie",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/kittyteggie/ducky/issues"
+  },
+  "homepage": "https://github.com/kittyteggie/ducky#readme"
+}
