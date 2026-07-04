@@ -9,3 +9,4 @@
 ```
 ## Links
 * npm: https://www.npmjs.com/package/printducky
+* PyPI: https://pypi.org/project/printducky
