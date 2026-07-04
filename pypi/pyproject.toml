@@ -1,0 +1,18 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "printducky"
+version = "1.0.0"
+description = "Prints a duck and... that's it :)"
+readme = "README.md"
+license = "Unlicense"
+authors = [
+    {name = "kittyteggie"}
+]
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/kittyteggie/ducky"
+Repository = "https://github.com/kittyteggie/ducky"
